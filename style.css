@@ -1,0 +1,43 @@
+.inPut {
+  width: 80% !important;
+}
+.myInput {
+  text-align: right !important;
+  height: 80px !important;
+  border-radius: 5px 5px 0px 0px !important;
+  border: none !important;
+  background-color: black !important;
+  color: white !important;
+}
+.myTable {
+  width: 80% !important;
+  border: 2px solid black;
+  text-align: center;
+  background-color: rgb(105, 105, 158);
+}
+.myTable td button {
+  background-color: rgba(19, 158, 201, 0.527);
+  color: white;
+  width: 100%;
+  border: 2px solid rgba(245, 245, 245, 0.534);
+}
+.myCal {
+  margin-top: 100px !important;
+  width: 100% !important;
+  padding-bottom: 10px !important;
+  display: flex !important;
+  justify-content: center;
+}
+
+.numColor {
+  background-color: rgb(105, 105, 158);
+  color: #03090e;
+}
+.allClear button {
+  background-color: rgb(224, 228, 25) !important;
+  color: rgb(10, 7, 7) !important;
+}
+.equalTo button {
+  background-color: rgb(224, 228, 25) !important;
+  color: rgb(10, 7, 7) !important;
+}
